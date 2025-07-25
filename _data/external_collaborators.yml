@@ -1,6 +1,6 @@
 - name: Prof. Brandon Haworth
   photo: bhaworth.jpg
-  info: Associate Professor (University of Victoria), Director of <a href="https://onlineacademiccommunity.uvic.ca/gaidglab/">Graphics, Artificial Intelligence, Design, and Games</a> Lab.
+  info: Associate Professor (University of Victoria), Director of <a href="https://onlineacademiccommunity.uvic.ca/gaidglab/">Graphics, Artificial Intelligence, Design, and Games</a> (GAIDG) Lab.
   email: bhaworth@uvic.ca
   number_research: 5
   research1: Computer Animation
@@ -11,7 +11,7 @@
 
 - name: Prof. Mubbasir Kapadia
   photo: mkapadia.jpg
-  info: Associate Professor (Rutgers University), Director of <a href="https://ivi.cs.rutgers.edu/">Intelligent Visual Interfaces Lab</a> Lab.
+  info: Associate Professor (Rutgers University), Director of <a href="https://ivi.cs.rutgers.edu/">Intelligent Visual Interfaces Lab</a> (IVI) Lab.
   email: mk1353@cs.rutgers.edu
   number_research: 5
   research1: Artificial Intelligence
@@ -22,7 +22,7 @@
 
 - name: Prof. Petros Faloutsos
   photo: pfaloutsos.jpg
-  info: Professor (York University) | Affiliate Scientist (Toronto Rehabilitation Institute), <a href="https://gamay.lab.yorku.ca/">Graphics and Media at York</a> GaMaY Lab.
+  info: Professor (York University) | Affiliate Scientist (Toronto Rehabilitation Institute), <a href="https://gamay.lab.yorku.ca/">Graphics and Media at York</a> (GaMaY) Lab.
   email: pfal@cse.yorku.ca
   number_research: 3
   research1: Computer Graphics
