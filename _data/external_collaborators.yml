@@ -20,7 +20,7 @@
   research4: Digital Storytelling
   research5: Autonomous Agents
 
-  - name: Prof. Petros Faloutsos
+- name: Prof. Petros Faloutsos
   photo: pfaloutsos.jpg
   info: Professor (York University) | Affiliate Scientist (Toronto Rehabilitation Institute), <a href="https://gamay.lab.yorku.ca/">Graphics and Media at York</a> GaMaY Lab.
   email: pfal@cse.yorku.ca
@@ -28,4 +28,5 @@
   research1: Computer Graphics
   research2: Computer Animation
   research3: Crowd Simulation
-  
+  research4: 
+  research5: 
