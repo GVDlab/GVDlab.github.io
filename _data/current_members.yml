@@ -16,7 +16,7 @@
 
 - name: "This could be you !"
   photo: member.jpg
-  info: See openings for more info
+  info: See <a href="{{ site.url }}{{ site.baseurl }}/vacancies">openings</a> for more info.
   email: muhammad.usman8@ontariotechu.ca
   number_educ: 0
   education1:
