@@ -1,11 +1,24 @@
-#- name:
-#  photo: rock.jpg
-#  info:
-#  email:
-#  number_educ:
-#  education1:
-#  education2:
-#  education3:
-#  education4:
+- name: Ridwanur Sardar
+  photo: ridwarur.png
+  info: MSc, started in June 2024
+  email: rrs148@scarletmail.rutgers.edu 
+  number_educ: 1
+  education1: MSc with <a href="https://www.cs.rutgers.edu/people/professors/details/mubbasir-kapadia">Prof. Mubbasir Kapadia</a> and Prof. Muhammad Usman (inprogress)
+  education2: 
 
+- name: William Chandler
+  photo: will.jpeg
+  info: MSc, started in June 2024
+  email: wcc44@scarletmail.rutgers.edu 
+  number_educ: 1
+  education1: MSc with <a href="https://www.cs.rutgers.edu/people/professors/details/mubbasir-kapadia">Prof. Mubbasir Kapadia</a> and Prof. Muhammad Usman (inprogress)
+  education2: 
 
+- name: "This could be you !"
+  photo: member.jpg
+  info: See openings for more info
+  email: muhammad.usman8@ontariotechu.ca
+  number_educ: 0
+  education1:
+  education2:
+  education3:
