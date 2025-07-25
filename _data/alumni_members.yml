@@ -1,5 +1,5 @@
 - name: Mona Alzahrani
-  photo: member.jpg
+  photo: member.png
   duration: 2022 - 2024, now Assistant Professor at JAOF University
   info: PhD Student
   email: mszahrani@ju.edu.sa
@@ -10,7 +10,7 @@
   education4:
 
 - name: Kaidong Hu
-  photo: kaidong.jpg
+  photo: khu.png
   info: PhD student
   duration: May 2024 to June 2025, now Software Development Engineer at Amazon 
   email: hukaidonghkd@gmail.com
@@ -20,7 +20,7 @@
   education3: 
 
 - name: Vahid Azizi
-  photo: vahid.jpg
+  photo: vazizi.jpg
   info: PhD Student
   duration: Sep. 2020 to Aug. 2021, now Applied Scientist at Amazon
   email: va.azizi@gmail.com
@@ -53,7 +53,7 @@
   education4:
 
 - name: Ali Hassan
-  photo: alihassan.jpg
+  photo: ahassan.jpg
   info: MSc Student
   duration: Sep. 2021 to Aug. 2023, now Visualization Analyst at Candu Energy Inc.
   email: alihc.me@gmail.com
@@ -63,7 +63,7 @@
   education3:
 
 - name: Seonghyeon Moon
-  photo: smoon.jpg
+  photo: smoon.jpeg
   info: PhD Student
   duration: Sep. 2020 to Aug. 2021, now Senior Software Engineer at Roblox Corporation
   email: msh8912@gmail.com
