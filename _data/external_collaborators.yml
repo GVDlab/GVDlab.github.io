@@ -1,1 +1,10 @@
-- name: ...
+- name: Prof. Brandon Haworth
+  photo: gaidg-lab.jpg
+  info: Associate Professor (University of Victoria), Director of <a href="https://onlineacademiccommunity.uvic.ca/gaidglab/">Graphics, Artificial Intelligence, Design, and Games</a> Lab.
+  email: bhaworth@uvic.ca
+  number_research: 5
+  research1: Computer Animation
+  research2: Computer Graphics
+  research3: Crowd Simulation
+  research4: Games
+  research5: Artificial Intelligence
