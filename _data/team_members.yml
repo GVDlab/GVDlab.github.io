@@ -1,14 +1,3 @@
-- name: Muhammad Usman
-  photo: usman.jpg
-  info: Assistant Professor, started Jan 2022
-  email: muhammad.usman8@ontariotechu.ca
-  number_educ: 3
-  education1: PhD - York University, with <a href="https://lassonde.yorku.ca/users/pfal">Prof. Petros Faloutsos</a> and <a href="https://www.cs.rutgers.edu/people/professors/details/mubbasir-kapadia">Prof. Mubbasir Kapadia</a>.
-  education2: MSc - York University, with <a href="https://lassonde.yorku.ca/users/pfal">Prof. Petros Faloutsos</a> and <a href="https://www.cs.rutgers.edu/people/professors/details/mubbasir-kapadia">Prof. Mubbasir Kapadia</a>.
-  education3: BSc - Punjab University College of Information Technology (PUCIT), with <a href="https://pu.edu.pk/faculty/detail/syed-waqar-ul-qounain-jaffry">Prof. Waqar Jaffry</a>.
-  education4: 
-  education5: 
-
 - name: Ridwanur Sardar
   photo: ridwarur.png
   info: MSc, started in June 2024
