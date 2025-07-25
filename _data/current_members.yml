@@ -1,5 +1,5 @@
 - name: Ridwanur Sardar
-  photo: ridwarur.png
+  photo: rsarder.jpg
   info: MSc, started in June 2024
   email: rrs148@scarletmail.rutgers.edu 
   number_educ: 1
@@ -7,7 +7,7 @@
   education2: 
 
 - name: William Chandler
-  photo: will.jpeg
+  photo: rchandler.jpg
   info: MSc, started in June 2024
   email: wcc44@scarletmail.rutgers.edu 
   number_educ: 1
@@ -15,7 +15,7 @@
   education2: 
 
 - name: "This could be you !"
-  photo: member.jpg
+  photo: member.png
   info: See <a href="{{ site.url }}{{ site.baseurl }}/vacancies">openings</a> for more info.
   email: muhammad.usman8@ontariotechu.ca
   number_educ: 0
