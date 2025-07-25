@@ -13,12 +13,3 @@
   number_educ: 1
   education1: Co-supervision <a href="https://www.cs.rutgers.edu/people/professors/details/mubbasir-kapadia">Prof. Mubbasir Kapadia</a> and Prof. Muhammad Usman
   education2: 
-
-- name: "This could be you !"
-  photo: member.png
-  info: See <a href="{{ site.url }}{{ site.baseurl }}/vacancies">openings</a> for more info.
-  email: muhammad.usman8@ontariotechu.ca
-  number_educ: 0
-  education1:
-  education2:
-  education3:
