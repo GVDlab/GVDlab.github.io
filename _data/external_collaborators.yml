@@ -30,3 +30,14 @@
   research3: Crowd Simulation
   research4: 
   research5: 
+
+- name: Prof. Mojgan Jadidi
+  photo: mjadidi.jpg
+  info: Associate Professor (York University), Director of <a href="https://mjadidi.me/">GeoVA</a> Lab.
+  email: mjadidi@yorku.ca
+  number_research: 5
+  research1: Geospatial Visual Analytics
+  research2: BIM
+  research3: GIS
+  research4: Digital Twins
+  research5: Augmented/Virtual Reality
