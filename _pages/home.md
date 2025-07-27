@@ -17,9 +17,9 @@ Our lab operates at the exciting intersection of modeling and simulation of **vi
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
-        <li data-target="#carousel" data-slide-to="3"></li>        
-        <li data-target="#carousel" data-slide-to="5"></li>        
-        <li data-target="#carousel" data-slide-to="7"></li>
+        <li data-target="#carousel" data-slide-to="3"></li>
+        <li data-target="#carousel" data-slide-to="4"></li>        
+        <li data-target="#carousel" data-slide-to="6"></li>        
         <li data-target="#carousel" data-slide-to="8"></li>
         <li data-target="#carousel" data-slide-to="9"></li>
         <li data-target="#carousel" data-slide-to="10"></li>
@@ -44,11 +44,11 @@ Our lab operates at the exciting intersection of modeling and simulation of **vi
             <img src="{{ site.url }}{{ site.baseurl }}/images/sliderpic/lab-slider-2.jpg" alt="Slide 3" />
         </div>        
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/sliderpic/lab-slider-4.jpg" alt="Slide 5" />
-        </div>         
+            <img src="{{ site.url }}{{ site.baseurl }}/images/sliderpic/lab-slider-3.jpg" alt="Slide 4" />
+        </div>        
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/sliderpic/lab-slider-6.jpg" alt="Slide 7" />
-        </div>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/sliderpic/lab-slider-5.jpg" alt="Slide 6" />
+        </div>         
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/sliderpic/lab-slider-7.jpg" alt="Slide 8" />
         </div>
@@ -100,6 +100,6 @@ We are also working with **embodiment in VR** within shared virtual spaces, wher
 
 
 <figure class="fifth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/lab-logo-withName.png" style="width: 300px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/lab-logo-withName.png" style="width: 250px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/otu-logo.png" style="width: 350px">
 </figure>
