@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group in the [Faculty of Science](https://science.ontariotechu.ca/index.php) at the [Ontario Tech University](https://ontariotechu.ca/). 
+We are a dynamic research group in the [Faculty of Science](https://science.ontariotechu.ca/index.php) (Computer Science) at the [Ontario Tech University](https://ontariotechu.ca/). 
 
 Our lab operates at the exciting intersection of modeling and simulation of **virtual characters**, **human-building interaction**, **serious games**, and **immersive crowds and environments**. We specialize in developing sophisticated computational models designed to realistically simulate and interpret complex human behaviors within crowds. These models have broad applications, ranging from immersive games and interactive virtual environments to smart architectural designs and emergency evacuation planning. Leveraging advanced VR frameworks, we systematically evaluate how crowds perceive and interact with digital spaces, enabling a deeper understanding of human behavior and enhancing the accuracy of simulations. We utilize crowds as dynamic instruments for data-driven evaluation of **3D digital twin environments**, thereby bridging the gap between simulated scenarios and real-world applications. 
  
