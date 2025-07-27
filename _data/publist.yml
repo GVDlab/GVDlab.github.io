@@ -5,7 +5,7 @@
   link:
     url: "https://arxiv.org/abs/2502.07128"
     display: "arXiv preprint arXiv:2502.07128, (2025)"
-  highlight: 0
+  highlight: 1
 
 - title: "A comprehensive overview of large language models"
   image: image.png
@@ -14,7 +14,7 @@
   link:
     url: "https://dl.acm.org/doi/abs/10.1145/3744746"
     display: "ACM Transactions on Intelligent Systems and Technology, (2025)"
-  highlight: 0
+  highlight: 1
 
 - title: "3D Object Classification with Selective Multi-View Fusion and Shape Rendering"
   image: image.png
@@ -32,7 +32,7 @@
   link:
     url: "https://ieeexplore.ieee.org/abstract/document/10869598"
     display: "International Conference on Digital Image Computing: Techniques and Applications (DICTA), 359--366 (2024)"
-  highlight: 0
+  highlight: 1
 
 - title: "Attention Down-Sampling Transformer, Relative Ranking and Self-Consistency For Blind Image Quality Assessment"
   image: image.png
@@ -95,7 +95,7 @@
   link:
     url: "https://dl.acm.org/doi/abs/10.1145/3581641.3584045"
     display: "International Conference on Intelligent User Interfaces, 790--801 (2023)"
-  highlight: 0
+  highlight: 1
 
 - title: "Re-envisioning Field Surveying as an Immersive Gamification Experience"
   image: image.png
@@ -104,7 +104,7 @@
   link:
     url: "https://ixdea.org/58_3/"
     display: "Interaction Design &amp; Architecture (s)--IxD&amp;A Journal, nan(58), 72--89 (2023)"
-  highlight: 0
+  highlight: 1
 
 - title: "Digital Twins: Simulating Robot-Human Sidewalk Interactions"
   image: image.png
@@ -113,7 +113,7 @@
   link:
     url: "https://link.springer.com/chapter/10.1007/978-3-031-43699-4_40"
     display: "International 3D GeoInfo Conference, 645--668 (2023)"
-  highlight: 0
+  highlight: 1
 
 - title: "Graph-based generative representation learning of semantically and behaviorally augmented floorplans"
   image: image.png
