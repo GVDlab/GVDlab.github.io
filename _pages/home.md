@@ -6,11 +6,9 @@ sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at [Faculty of Science](https://science.ontariotechu.ca/index.php) at the [Ontario Tech University](https://ontariotechu.ca/). 
+We are a dynamic research group in the [Faculty of Science](https://science.ontariotechu.ca/index.php) at the [Ontario Tech University](https://ontariotechu.ca/). 
 
-Our lab operates at the exciting intersection of modeling and simulation of virtual characters, human-building interaction, serious games, and immersive crowds and environments. We specialize in developing sophisticated computational models designed to realistically simulate and interpret complex human behaviors within crowds. These models have broad applications, ranging from immersive games and interactive virtual environments to smart architectural designs and emergency evacuation planning. Leveraging advanced VR frameworks, we systematically evaluate how crowds perceive and interact with digital spaces, enabling a deeper understanding of human behavior and enhancing the accuracy of simulations. We utilize crowds as dynamic instruments for data-driven evaluation of 3D digital twin environments, thereby bridging the gap between simulated scenarios and real-world applications. 
-
-We are also working with embodiment in VR within shared virtual spaces, where virtual characters and embodied users coexist and interact through deeply immersive experiences. Our efforts focus on ensuring these interactions are highly realistic, incorporating nuanced social behaviors and photorealistic virtual characters. Our integrative approach not only contributes to the scientific foundations of crowd dynamics but also fosters the development of practical tools for safer, more intuitive, and emotionally-responsive virtual spaces.
+Our lab operates at the exciting intersection of modeling and simulation of **virtual characters**, **human-building interaction**, **serious games**, and **immersive crowds and environments**. We specialize in developing sophisticated computational models designed to realistically simulate and interpret complex human behaviors within crowds. These models have broad applications, ranging from immersive games and interactive virtual environments to smart architectural designs and emergency evacuation planning. Leveraging advanced VR frameworks, we systematically evaluate how crowds perceive and interact with digital spaces, enabling a deeper understanding of human behavior and enhancing the accuracy of simulations. We utilize crowds as dynamic instruments for data-driven evaluation of 3D digital twin environments, thereby bridging the gap between simulated scenarios and real-world applications. 
  
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
@@ -23,6 +21,15 @@ We are also working with embodiment in VR within shared virtual spaces, where vi
         <li data-target="#carousel" data-slide-to="4"></li>
         <li data-target="#carousel" data-slide-to="5"></li>
         <li data-target="#carousel" data-slide-to="6"></li>
+        <li data-target="#carousel" data-slide-to="7"></li>
+        <li data-target="#carousel" data-slide-to="8"></li>
+        <li data-target="#carousel" data-slide-to="9"></li>
+        <li data-target="#carousel" data-slide-to="10"></li>
+        <li data-target="#carousel" data-slide-to="11"></li>
+        <li data-target="#carousel" data-slide-to="12"></li>
+        <li data-target="#carousel" data-slide-to="13"></li>
+        <li data-target="#carousel" data-slide-to="14"></li>
+        <li data-target="#carousel" data-slide-to="15"></li>
     </ol>
 
     <!-- Items -->
@@ -45,6 +52,33 @@ We are also working with embodiment in VR within shared virtual spaces, where vi
          <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BSCCO2gap2.jpg" alt="Slide 6" />
         </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BSCCO2gap2.jpg" alt="Slide 7" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BSCCO2gap2.jpg" alt="Slide 8" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BSCCO2gap2.jpg" alt="Slide 9" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BSCCO2gap2.jpg" alt="Slide 10" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BSCCO2gap2.jpg" alt="Slide 11" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BSCCO2gap2.jpg" alt="Slide 12" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BSCCO2gap2.jpg" alt="Slide 13" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BSCCO2gap2.jpg" alt="Slide 14" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/BSCCO2gap2.jpg" alt="Slide 15" />
+        </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
@@ -57,9 +91,9 @@ We are also working with embodiment in VR within shared virtual spaces, where vi
 </div>
 
 
-We are currently building up our instruments right in the center of Munich, in the *Sommerfeldkeller*, where Sommerfeld and Röntgen worked. We will exchange ideas with world class groups working in quantum physics, cold-atom many-body physics, and 2d quantum materials. We are also a proud member of the [SuperC consortium](https://superc2033.com/our-team/).
+We are also working with **embodiment in VR** within shared virtual spaces, where virtual characters and embodied users coexist and interact through deeply immersive experiences. Our efforts focus on ensuring these interactions are highly realistic, incorporating nuanced social behaviors and photorealistic virtual characters. Our integrative approach not only contributes to the scientific foundations of crowd dynamics but also fosters the development of practical tools for safer, more intuitive, and emotionally-responsive virtual spaces.
 
-**We are looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)](https://www.allanlab.org/vacancies) **!**
+**We are looking for passionate new Masters and PhD students to join the team** [(more info)](https://gvdlab.github.io/vacancies) **!**
 
 
 
