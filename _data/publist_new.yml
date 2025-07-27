@@ -4,7 +4,7 @@
   authors: Li, Danrui, Zhang, Sen, Sohn, Sam S, Hu, Kaidong, Usman, Muhammad, Kapadia, Mubbasir
   link:
     url: ""
-    display: arXiv preprint arXiv:2502.07128, (2025)
+    display: "arXiv preprint arXiv:2502.07128, (2025)"
   highlight: 0
 
 - title: "3D Object Classification with Selective Multi-View Fusion and Shape Rendering"
@@ -22,7 +22,7 @@
   authors: Usman, Muhammad, Almulhim, Abdullah, Alaseri, Mohammad, Alzahran, Mona, Luqman, Hamzah, Anwar, Saeed
   link:
     url: ""
-    display: International Conference on Digital Image Computing: Techniques and Applications (DICTA), 359--366 (2024)
+    display: "International Conference on Digital Image Computing: Techniques and Applications (DICTA), 359--366 (2024)"
   highlight: 0
 
 - title: "Attention Down-Sampling Transformer, Relative Ranking and Self-Consistency For Blind Image Quality Assessment"
@@ -31,7 +31,7 @@
   authors: Alsaafin, Mohammed, Alsheikh, Musab, Anwar, Saeed, Usman, Muhammad
   link:
     url: ""
-    display: International Conference on Image Processing (ICIP), 1260--1266 (2024)
+    display: "International Conference on Image Processing (ICIP), 1260--1266 (2024)"
   highlight: 0
 
 - title: "DefAn: Definitive Answer Dataset for LLMs Hallucination Evaluation"
@@ -40,7 +40,7 @@
   authors: Rahman, ABM, Anwar, Saeed, Usman, Muhammad, Mian, Ajmal
   link:
     url: ""
-    display: arXiv preprint arXiv:2406.09155, nan(nan), nan (2024)
+    display: "arXiv preprint arXiv:2406.09155, nan(nan), nan (2024)"
   highlight: 0
 
 - title: "Selective Multi-View Deep Model for 3D Object Classification"
@@ -49,7 +49,7 @@
   authors: Alzahrani, Mona, Usman, Muhammad, Anwar, Saeed, Helmy, Tarek
   link:
     url: ""
-    display: Conference on Computer Vision and Pattern Recognition, 728--736 (2024)
+    display: "Conference on Computer Vision and Pattern Recognition, 728--736 (2024)"
   highlight: 0
 
 - title: "Bird's-Eye View to Street-View: A Survey"
@@ -58,7 +58,7 @@
   authors: Bajbaa, Khawlah, Usman, Muhammad, Anwar, Saeed, Radwan, Ibrahim, Bais, Abdul
   link:
     url: ""
-    display: arXiv preprint arXiv:2405.08961, (2024)
+    display: "arXiv preprint arXiv:2405.08961, (2024)"
   highlight: 0
 
 - title: "A comprehensive overview of large language models, 2024"
@@ -67,7 +67,7 @@
   authors: Naveed, Humza, Khan, Asad Ullah, Qiu, Shi, Saqib, Muhammad, Anwar, Saeed, Usman, Muhammad, Akhtar, Naveed, Barnes, Nick, Mian, Ajmal
   link:
     url: ""
-    display: arXiv preprint arXiv:2307.06435, (2024)
+    display: "arXiv preprint arXiv:2307.06435, (2024)"
   highlight: 0
 
 - title: "Deep models for multi-view 3D object recognition: a review"
@@ -76,7 +76,7 @@
   authors: Alzahrani, Mona, Usman, Muhammad, Jarraya, Salma Kammoun, Anwar, Saeed, Helmy, Tarek
   link:
     url: ""
-    display: Artificial Intelligence Review, 57(12), 323 (2024)
+    display: "Artificial Intelligence Review, 57(12), 323 (2024)"
   highlight: 0
 
 - title: "A comprehensive overview of large language models"
@@ -85,7 +85,7 @@
   authors: Naveed, Humza, Khan, Asad Ullah, Qiu, Shi, Saqib, Muhammad, Anwar, Saeed, Usman, Muhammad, Akhtar, Naveed, Barnes, Nick, Mian, Ajmal
   link:
     url: ""
-    display: ACM Transactions on Intelligent Systems and Technology, (2023)
+    display: "ACM Transactions on Intelligent Systems and Technology, (2023)"
   highlight: 0
 
 - title: "The role of latent representations for design space exploration of floorplans"
@@ -94,7 +94,7 @@
   authors: Azizi, Vahid, Usman, Muhammad, Sohn, Samuel S, Schwartz, Mathew, Moon, Seonghyeon, Faloutsos, Petros, Kapadia, Mubbasir
   link:
     url: ""
-    display: Simulation, 99(11), 1167--1179 (2023)
+    display: "Simulation, 99(11), 1167--1179 (2023)"
   highlight: 0
 
 - title: "The Importance of Multimodal Emotion Conditioning and Affect Consistency for Embodied Conversational Agents"
@@ -103,7 +103,7 @@
   authors: Chang, Che-Jui, Sohn, Samuel S, Zhang, Sen, Jayashankar, Rajath, Usman, Muhammad, Kapadia, Mubbasir
   link:
     url: ""
-    display: International Conference on Intelligent User Interfaces, 790--801 (2023)
+    display: "International Conference on Intelligent User Interfaces, 790--801 (2023)"
   highlight: 0
 
 - title: "Re-envisioning Field Surveying as an Immersive Gamification Experience"
@@ -112,7 +112,7 @@
   authors: Usman, Muhammad, Usmani, Aman, Jadidi, Mojgan
   link:
     url: ""
-    display: Interaction Design \& Architecture (s)--IxD\&A Journal, nan(58), 72--89 (2023)
+    display: "Interaction Design \& Architecture (s)--IxD\&A Journal, nan(58), 72--89 (2023)"
   highlight: 0
 
 - title: "Digital Twins: Simulating Robot-Human Sidewalk Interactions"
@@ -121,7 +121,7 @@
   authors: Hassan, Ali, Usman, Muhammad, Kremer, Melissa, Yang, Seungho, Luubert, Michael, Faloutsos, Petros, Hall, G Brent, Sohn, Gunho
   link:
     url: ""
-    display: International 3D GeoInfo Conference, 645--668 (2023)
+    display: "International 3D GeoInfo Conference, 645--668 (2023)"
   highlight: 0
 
 - title: "A comprehensive overview of large language models. arXiv 2023"
@@ -130,7 +130,7 @@
   authors: Naveed, Humza, Khan, Asad Ullah, Qiu, Shi, Saqib, Muhammad, Anwar, Saeed, Usman, Muhammad, Akhtar, Naveed, Barnes, Nick, Mian, Ajmal
   link:
     url: ""
-    display: arXiv preprint arXiv:2307.06435, (2023)
+    display: "arXiv preprint arXiv:2307.06435, (2023)"
   highlight: 0
 
 - title: "Graph-based generative representation learning of semantically and behaviorally augmented floorplans"
@@ -139,7 +139,7 @@
   authors: Azizi, Vahid, Usman, Muhammad, Zhou, Honglu, Faloutsos, Petros, Kapadia, Mubbasir
   link:
     url: ""
-    display: The Visual Computer, 38(8), 2785--2800 (2022)
+    display: "The Visual Computer, 38(8), 2785--2800 (2022)"
   highlight: 0
 
 - title: "A Multiscale Geospatial Dataset and an Interactive Visualization Dashboard for Computational Epidemiology and Open Scientific Research"
@@ -148,7 +148,7 @@
   authors: Usman, Muhammad, Zhou, Honglu, Moon, Seonghyeon, Zhang, Xun, Faloutsos, Petros, Kapadia, Mubbasir
   link:
     url: ""
-    display: IEEE computer graphics and applications, 43(1), 39--52 (2022)
+    display: "IEEE computer graphics and applications, 43(1), 39--52 (2022)"
   highlight: 0
 
 - title: "TEACHING EARTH SYSTEMS BEYOND THE CLASSROOM: DEVELOPING A MIXED REALITY (XR) SANDBOX"
@@ -157,7 +157,7 @@
   authors: Tennakoon, Damith, Usmani, Aman U, Vasileiou, Apostolos, Latchaev, Sasha, Baljko, Melanie, Usman, Muhammad, Khan, Usman, Perras, Matthew, Jadidi, Mojgan
   link:
     url: ""
-    display: ASEE Annual Conference & Exposition, (2022)
+    display: "ASEE Annual Conference & Exposition, (2022)"
   highlight: 0
 
 - title: "Impact of Manikin Display on Perception of Spatial Planning"
@@ -166,7 +166,7 @@
   authors: Schwartz, Mathew, Haworth, Brandon, Usman, Muhammad, Faloutsos, Petros, Kapadia, Mubbasir
   link:
     url: ""
-    display: Symposium on Applied Perception, 1--11 (2022)
+    display: "Symposium on Applied Perception, 1--11 (2022)"
   highlight: 0
 
 - title: "Optimizing indoor navigation policies for spatial distancing"
@@ -175,7 +175,7 @@
   authors: Zhang, Xun, Schwartz, Mathew, Usman, Muhammad, Faloutsos, Petros, Kapadia, Mubbasir
   link:
     url: ""
-    display: arXiv preprint arXiv:2207.08860, (2022)
+    display: "arXiv preprint arXiv:2207.08860, (2022)"
   highlight: 0
 
 - title: "A2X: An end-to-end framework for assessing agent and environment interactions in multimodal human trajectory prediction"
@@ -184,7 +184,7 @@
   authors: Sohn, Samuel S, Lee, Mihee, Moon, Seonghyeon, Qiao, Gang, Usman, Muhammad, Yoon, Sejong, Pavlovic, Vladimir, Kapadia, Mubbasir
   link:
     url: ""
-    display: Computers \& Graphics, 106(nan), 130--140 (2022)
+    display: "Computers \& Graphics, 106(nan), 130--140 (2022)"
   highlight: 0
 
 - title: "Democratizing the Simulation of Human-Building Interactions."
@@ -193,7 +193,7 @@
   authors: Usman, Muhammad, Haworth, Brandon, Faloutsos, Petros, Kapadia, Mubbasir
   link:
     url: ""
-    display: Computer Animation and Virtual Worlds, (2021)
+    display: "Computer Animation and Virtual Worlds, (2021)"
   highlight: 0
 
 - title: "A2x: An agent and environment interaction benchmark for multimodal human trajectory prediction"
@@ -202,7 +202,7 @@
   authors: Sohn, Samuel S, Lee, Mihee, Moon, Seonghyeon, Qiao, Gang, Usman, Muhammad, Yoon, Sejong, Pavlovic, Vladimir, Kapadia, Mubbasir
   link:
     url: ""
-    display: Computers & Graphics, 1--9 (2021)
+    display: "Computers & Graphics, 1--9 (2021)"
   highlight: 0
 
 - title: "Web-based Game vs. Virtual Reality Field Surveying Labs Towards Enhancing Experiential Education"
@@ -211,7 +211,7 @@
   authors: Bolkas, Dimitrios, Jadidi, Mojgan A., Chiampi, Jeffrey, Usman, Muhammad
   link:
     url: ""
-    display: ASEE Annual Conference, (2021)
+    display: "ASEE Annual Conference, (2021)"
   highlight: 0
 
 - title: "Towards Democratizing Human--Building Simulation and Analytics"
@@ -220,7 +220,7 @@
   authors: Usman, Muhammad, Haworth, Brandon, Berseth, Glen, Faloutsos, Petros, Kapadia, Mubbasir
   link:
     url: ""
-    display: Resilience in the Digital Age, 157--171 (2021)
+    display: "Resilience in the Digital Age, 157--171 (2021)"
   highlight: 0
 
 - title: "Simulation-as-a-Service: Analyzing Crowd Movements in Virtual Environments"
@@ -229,7 +229,7 @@
   authors: Usman, Muhammad, Haworth, Brandon, Faloutsos, Petros, Kapadia, Mubbasir
   link:
     url: ""
-    display: Computer Animation and Virtual Worlds, 32(6), e1990 (2021)
+    display: "Computer Animation and Virtual Worlds, 32(6), e1990 (2021)"
   highlight: 0
 
 - title: "Interactive architectural design with diverse solution exploration"
@@ -238,7 +238,7 @@
   authors: Berseth, Glen, Haworth, Brandon, Usman, Muhammad, Schaumann, Davide, Khayatkhoei, Mahyar, Kapadia, Mubbasir, Faloutsos, Petros
   link:
     url: ""
-    display: IEEE Transactions on Visualization and Computer Graphics, 27(1), 111--124 (2021)
+    display: "IEEE Transactions on Visualization and Computer Graphics, 27(1), 111--124 (2021)"
   highlight: 0
 
 - title: "A social distancing index: Evaluating navigational policies on human proximity using crowd simulations"
@@ -247,7 +247,7 @@
   authors: Usman, Muhammad, Lee, Tien-Chi, Moghe, Ryhan, Zhang, Xun, Faloutsos, Petros, Kapadia, Mubbasir
   link:
     url: ""
-    display: Conference on Motion, Interaction and Games (MIG), 1--6 (2020)
+    display: "Conference on Motion, Interaction and Games (MIG), 1--6 (2020)"
   highlight: 0
 
 - title: "From semantic-based rule checking to simulation-powered emergency egress analytics"
@@ -256,7 +256,7 @@
   authors: Usman, Muhammad, Mao, Yi, Schaumann, Davide, Faloutsos, Petros, Kapadia, Mubbasir
   link:
     url: ""
-    display: Annual Symposium on Simulation for Architecture and Urban Design, 1--8 (2020)
+    display: "Annual Symposium on Simulation for Architecture and Urban Design, 1--8 (2020)"
   highlight: 0
 
 - title: "Floorplan embedding with latent semantics and human behavior annotations"
@@ -265,7 +265,7 @@
   authors: Azizi, Vahid, Usman, Muhammad, Patel, Samarth, Schaumann, Davide, Zhou, Honglu, Faloutsos, Petros, Kapadia, Mubbasir
   link:
     url: ""
-    display: Annual Symposium on Simulation for Architecture and Urban Design, 1--8 (2020)
+    display: "Annual Symposium on Simulation for Architecture and Urban Design, 1--8 (2020)"
   highlight: 0
 
 - title: "Gamification of crowd-driven environment design"
@@ -274,7 +274,7 @@
   authors: Haworth, Brandon, Usman, Muhammad, Schaumann, Davide, Chakraborty, Nilay, Berseth, Glen, Faloutsos, Petros, Kapadia, Mubbasir
   link:
     url: ""
-    display: IEEE computer graphics and applications, 41(4), 107--117 (2020)
+    display: "IEEE computer graphics and applications, 41(4), 107--117 (2020)"
   highlight: 0
 
 - title: "JOIN: an integrated platform for joint simulation of occupant-building interactions"
@@ -283,7 +283,7 @@
   authors: Schaumann, Davide, Moon, Seonghyeon, Usman, Muhammad, Goldstein, Rhys, Breslav, Simon, Khan, Azam, Faloutsos, Petros, Kapadia, Mubbasir
   link:
     url: ""
-    display: Architectural Science Review, 63(3-4), 339--350 (2020)
+    display: "Architectural Science Review, 63(3-4), 339--350 (2020)"
   highlight: 0
 
 - title: "Joint exploration and analysis of high-dimensional design--occupancy templates"
@@ -292,7 +292,7 @@
   authors: Usman, Muhammad, Schaumann, Davide, Haworth, Brandon, Kapadia, Mubbasir, Faloutsos, Petros
   link:
     url: ""
-    display: Conference on Motion, Interaction and Games (MIG), 1--5 (2019)
+    display: "Conference on Motion, Interaction and Games (MIG), 1--5 (2019)"
   highlight: 0
 
 - title: "Joint parametric modeling of buildings and crowds for human-centric simulation and analysis"
@@ -301,7 +301,7 @@
   authors: Usman, Muhammad, Schaumann, Davide, Haworth, Brandon, Kapadia, Mubbasir, Faloutsos, Petros
   link:
     url: ""
-    display: International Conference on Computer-Aided Architectural Design Futures, 279--294 (2019)
+    display: "International Conference on Computer-Aided Architectural Design Futures, 279--294 (2019)"
   highlight: 0
 
 - title: "Spatiotemporal Influence and Affordance Maps for Occupant Behavior Simulation"
@@ -310,7 +310,7 @@
   authors: Schaumann, Davide, Sohn, Samuel S, Usman, Muhammad, Haworth, Brandon, Faloutsos, Petros, Kapadia, Mubbasir
   link:
     url: ""
-    display: International Conference on Computer-Aided Architectural Design Futures, 18(00000), nan (2019)
+    display: "International Conference on Computer-Aided Architectural Design Futures, 18(00000), nan (2019)"
   highlight: 0
 
 - title: "Toward a multi-level and multi-paradigm platform for building occupant simulation"
@@ -319,7 +319,7 @@
   authors: Schaumann, Davide, Moon, Seonghyeon, Usman, Muhammad, Goldstein, Rhys, Breslav, Simon, Khan, Azam, Faloutsos, Petros, Kapadia, Mubbasir
   link:
     url: ""
-    display: Symposium on Simulation for Architecture and Urban Design, 169--176 (2019)
+    display: "Symposium on Simulation for Architecture and Urban Design, 169--176 (2019)"
   highlight: 0
 
 - title: "Interactive Diversity Optimization of Environments"
@@ -328,7 +328,7 @@
   authors: Berseth, Glen, Khayatkhoei, Mahyar, Haworth, Brandon, Usman, Muhammad, Kapadia, Mubbasir, Faloutsos, Petros
   link:
     url: ""
-    display: arXiv preprint arXiv:1801.08607, (2018)
+    display: "arXiv preprint arXiv:1801.08607, (2018)"
   highlight: 0
 
 - title: "Interactive spatial analytics for human-aware building design"
@@ -337,7 +337,7 @@
   authors: Usman, Muhammad, Schaumann, Davide, Haworth, Brandon, Berseth, Glen, Kapadia, Mubbasir, Faloutsos, Petros
   link:
     url: ""
-    display: Conference on Motion, Interaction and Games (MIG), 1--12 (2018)
+    display: "Conference on Motion, Interaction and Games (MIG), 1--12 (2018)"
   highlight: 0
 
 - title: "Crowd sourced co-design of floor plans using simulation guided games"
@@ -346,7 +346,7 @@
   authors: Chakraborty, Nilay, Haworth, Brandon, Usman, Muhammad, Berseth, Glen, Faloutsos, Petros, Kapadia, Mubbasir
   link:
     url: ""
-    display: Conference on Motion, Interaction and Games (MIG), 1--5 (2017)
+    display: "Conference on Motion, Interaction and Games (MIG), 1--5 (2017)"
   highlight: 0
 
 - title: "Perceptual evaluation of space in virtual environments"
@@ -355,7 +355,7 @@
   authors: Usman, Muhammad, Haworth, Brandon, Berseth, Glen, Kapadia, Mubbasir, Faloutsos, Petros
   link:
     url: ""
-    display: Conference on Motion, Interaction and Games (MIG), 1--10 (2017)
+    display: "Conference on Motion, Interaction and Games (MIG), 1--10 (2017)"
   highlight: 0
 
 - title: "Evaluating and optimizing evacuation plans for crowd egress"
@@ -364,7 +364,7 @@
   authors: Cassol, Vincius J, Testa, Est{\^e}v{\~a}o Smania, Jung, Cl{\'a}udio Rosito, Usman, Muhammad, Faloutsos, Petros, Berseth, Glen, Kapadia, Mubbasir, Badler, Norman I, Musse, Soraia Raupp
   link:
     url: ""
-    display: IEEE computer graphics and applications, 37(4), 60--71 (2017)
+    display: "IEEE computer graphics and applications, 37(4), 60--71 (2017)"
   highlight: 0
 
 - title: "Understanding spatial perception and visual modes in the review of architectural designs"
@@ -373,7 +373,7 @@
   authors: Usman, Muhammad, Haworth, Brandon, Berseth, Glen, Kapadia, Mubbasir, Faloutsos, Petros
   link:
     url: ""
-    display: Symposium on Computer Animation, 1--2 (2017)
+    display: "Symposium on Computer Animation, 1--2 (2017)"
   highlight: 0
 
 - title: "On density--flow relationships during crowd evacuation"
@@ -382,7 +382,7 @@
   authors: Haworth, Brandon, Usman, Muhammad, Berseth, Glen, Kapadia, Mubbasir, Faloutsos, Petros
   link:
     url: ""
-    display: Computer Animation and Virtual Worlds, 28(3-4), e1783 (2017)
+    display: "Computer Animation and Virtual Worlds, 28(3-4), e1783 (2017)"
   highlight: 0
 
 - title: "CODE: Crowd-optimized design of environments"
@@ -391,7 +391,7 @@
   authors: Haworth, Brandon, Usman, Muhammad, Berseth, Glen, Khayatkhoei, Mahyar, Kapadia, Mubbasir, Faloutsos, Petros
   link:
     url: ""
-    display: Computer Animation and Virtual Worlds, 28(6), e1749 (2017)
+    display: "Computer Animation and Virtual Worlds, 28(6), e1749 (2017)"
   highlight: 0
 
 - title: "Analysis and Optimization of Level of Service Using Synthetic Crowds"
@@ -400,7 +400,7 @@
   authors: Haworth, Brandon, Usman, Muhammad, Berseth, Glen, Kapadia, Mubbasir, Faloutsos, Petros
   link:
     url: ""
-    display: Annual MeetingTransportation Research Board, (2017)
+    display: "Annual MeetingTransportation Research Board, (2017)"
   highlight: 0
 
 - title: "The Use of Working Prototypes for Participatory Design with People with Disabilities"
@@ -409,7 +409,7 @@
   authors: Haworth, Brandon, Usman, Muhammad, Baljko, Melanie, Hamidi, Foad
   link:
     url: ""
-    display: Computers Helping People with Special Needs, 134--141 (2016)
+    display: "Computers Helping People with Special Needs, 134--141 (2016)"
   highlight: 0
 
 - title: "Towards computer assisted crowd aware architectural design"
@@ -418,7 +418,7 @@
   authors: Haworth, Brandon, Usman, Muhammad, Berseth, Glen, Khayatkhoei, Mahyar, Kapadia, Mubbasir, Faloutsos, Petros
   link:
     url: ""
-    display: CHI conference extended abstracts on human factors in computing systems, 2119--2125 (2016)
+    display: "CHI conference extended abstracts on human factors in computing systems, 2119--2125 (2016)"
   highlight: 0
 
 - title: "Using synthetic crowds to inform building pillar placements"
@@ -427,7 +427,7 @@
   authors: Haworth, Brandon, Usman, Muhammad, Berseth, Glen, Khayatkhoei, Mahyar, Kapadia, Mubbasir, Faloutsos, Petros
   link:
     url: ""
-    display: Virtual Humans and Crowds for Immersive Environments (VHCIE), 7--11 (2016)
+    display: "Virtual Humans and Crowds for Immersive Environments (VHCIE), 7--11 (2016)"
   highlight: 0
 
 - title: "Evaluating and optimizing level of service for crowd evacuations"
@@ -436,7 +436,7 @@
   authors: Haworth, Brandon, Usman, Muhammad, Berseth, Glen, Kapadia, Mubbasir, Faloutsos, Petros
   link:
     url: ""
-    display: Conference on Motion in Games (MiG), 91--96 (2015)
+    display: "Conference on Motion in Games (MiG), 91--96 (2015)"
   highlight: 0
 
 - title: "Environment optimization for crowd evacuation"
@@ -445,6 +445,6 @@
   authors: Berseth, Glen, Usman, Muhammad, Haworth, Brandon, Kapadia, Mubbasir, Faloutsos, Petros
   link:
     url: ""
-    display: Computer Animation and Virtual Worlds, 26(3-4), 377--386 (2015)
+    display: "Computer Animation and Virtual Worlds, 26(3-4), 377--386 (2015)
   highlight: 0
   
