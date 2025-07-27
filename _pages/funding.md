@@ -11,3 +11,6 @@ permalink: /funding/
 ---
 ### Ontario Tech University
 <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/otu-logo.png" class="img-responsive" width="33%" style="float: left" />
+
+---
+### More coming soon... <br> <br> <br> <br>
