@@ -1,18 +1,17 @@
 ---
-title: "Allan Lab - Home"
+title: "GVD Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University &rarr; LMU."
+excerpt: "Graphics and Virtual Dynamics Lab at Ontaio Tech University."
 sitemap: false
 permalink: /
 ---
 
-**News: Our group moved to the University of Munich (LMU)!** Join us! 
+We are a dynamic research group at [Faculty of Science](https://science.ontariotechu.ca/index.php) at the [Ontario Tech University](https://ontariotechu.ca/). 
 
-We are a dynamic research group at [LMU physics](https://www.physik.lmu.de/en/index.html) and at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl/). 
+Our lab operates at the exciting intersection of modeling and simulation of virtual characters, human-building interaction, serious games, and immersive crowds and environments. We specialize in developing sophisticated computational models designed to realistically simulate and interpret complex human behaviors within crowds. These models have broad applications, ranging from immersive games and interactive virtual environments to smart architectural designs and emergency evacuation planning. Leveraging advanced VR frameworks, we systematically evaluate how crowds perceive and interact with digital spaces, enabling a deeper understanding of human behavior and enhancing the accuracy of simulations. We utilize crowds as dynamic instruments for data-driven evaluation of 3D digital twin environments, thereby bridging the gap between simulated scenarios and real-world applications. 
 
-We have two overarching goals: first, 
-**to understand quantum materials**, including strange metals, high-temperature superconductors, and quantum critical electron matter. Second, **to make novel and useful materials** that never existed before, like possible room-temperature superconductors. 
-To achieve these goals, we develop new quantum sensing and quantum imaging instrumentation to obtain the key quantum mechanical degrees of freedom. We want to build the perfect instruments to answer the scientific questions we deem most important. 
+We are also working with embodiment in VR within shared virtual spaces, where virtual characters and embodied users coexist and interact through deeply immersive experiences. Our efforts focus on ensuring these interactions are highly realistic, incorporating nuanced social behaviors and photorealistic virtual characters. Our integrative approach not only contributes to the scientific foundations of crowd dynamics but also fosters the development of practical tools for safer, more intuitive, and emotionally-responsive virtual spaces.
+ 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
