@@ -35,7 +35,7 @@ Our lab operates at the exciting intersection of modeling and simulation of **vi
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/sliderpic/lab-logo.png" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/sliderpic/lab-slider-3.jpg" alt="Slide 1" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/sliderpic/lab-slider-1.png" alt="Slide 2" />
@@ -44,10 +44,10 @@ Our lab operates at the exciting intersection of modeling and simulation of **vi
             <img src="{{ site.url }}{{ site.baseurl }}/images/sliderpic/lab-slider-2.jpg" alt="Slide 3" />
         </div>        
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/sliderpic/lab-slider-3.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/sliderpic/lab-slider-17.jpg" alt="Slide 4" />
         </div>        
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/sliderpic/lab-slider-5.jpg" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/sliderpic/lab-slider-18.jpg" alt="Slide 6" />
         </div>         
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/sliderpic/lab-slider-7.jpg" alt="Slide 8" />
