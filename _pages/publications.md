@@ -14,7 +14,7 @@ permalink: /publications/
 **At the end of this page, you can find the [full list of publications and patents](#full-list-of-publications). All papers are also available on [arXiv](https://arxiv.org/search/?searchtype=author&query=Allan%2C+M+P).**
 
 {% assign number_printed = 0 %}
-{% for publi in site.data.publist_old %}
+{% for publi in site.data.publist %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if publi.highlight == 1 %}
@@ -59,7 +59,7 @@ permalink: /publications/
 
 ## Full List of publications
 
-{% for publi in site.data.publist_old %}
+{% for publi in site.data.publist %}
 
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
