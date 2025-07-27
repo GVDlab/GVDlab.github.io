@@ -4,7 +4,7 @@
   authors: Li, Danrui, Zhang, Sen, Sohn, Sam S, Hu, Kaidong, Usman, Muhammad, Kapadia, Mubbasir
   link:
     url: ""
-    display: arXiv preprint arXiv:2502.07128, nan(nan), nan (2025)
+    display: arXiv preprint arXiv:2502.07128, (2025)
   highlight: 0
 
 - title: "3D Object Classification with Selective Multi-View Fusion and Shape Rendering"
@@ -447,3 +447,4 @@
     url: ""
     display: Computer Animation and Virtual Worlds, 26(3-4), 377--386 (2015)
   highlight: 0
+  
