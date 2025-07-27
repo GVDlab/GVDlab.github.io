@@ -7,12 +7,21 @@
     display: "arXiv preprint arXiv:2502.07128, (2025)"
   highlight: 0
 
+- title: "A comprehensive overview of large language models"
+  image: image.png
+  description: ""
+  authors: Naveed, Humza, Khan, Asad Ullah, Qiu, Shi, Saqib, Muhammad, Anwar, Saeed, Usman, Muhammad, Akhtar, Naveed, Barnes, Nick, Mian, Ajmal
+  link:
+    url: "https://dl.acm.org/doi/abs/10.1145/3744746"
+    display: "ACM Transactions on Intelligent Systems and Technology, (2025)"
+  highlight: 0
+
 - title: "3D Object Classification with Selective Multi-View Fusion and Shape Rendering"
   image: image.png
   description: ""
   authors: Alzahrani, Mona, Usman, Muhammad, Alharbi, Randah, Anwar, Saeed, Mian, Ajmal, Helmy, Tarek
   link:
-    url: ""
+    url: "https://ieeexplore.ieee.org/abstract/document/10869594"
     display: "International Conference on Digital Image Computing: Techniques and Applications (DICTA), 351-358 (2024)"
   highlight: 0
 
@@ -21,7 +30,7 @@
   description: ""
   authors: Usman, Muhammad, Almulhim, Abdullah, Alaseri, Mohammad, Alzahran, Mona, Luqman, Hamzah, Anwar, Saeed
   link:
-    url: ""
+    url: "https://ieeexplore.ieee.org/abstract/document/10869598"
     display: "International Conference on Digital Image Computing: Techniques and Applications (DICTA), 359--366 (2024)"
   highlight: 0
 
@@ -30,7 +39,7 @@
   description: ""
   authors: Alsaafin, Mohammed, Alsheikh, Musab, Anwar, Saeed, Usman, Muhammad
   link:
-    url: ""
+    url: "https://ieeexplore.ieee.org/abstract/document/10647621"
     display: "International Conference on Image Processing (ICIP), 1260--1266 (2024)"
   highlight: 0
 
@@ -39,7 +48,7 @@
   description: ""
   authors: Rahman, ABM, Anwar, Saeed, Usman, Muhammad, Mian, Ajmal
   link:
-    url: ""
+    url: "https://arxiv.org/abs/2406.09155"
     display: "arXiv preprint arXiv:2406.09155, nan(nan), nan (2024)"
   highlight: 0
 
@@ -48,7 +57,7 @@
   description: ""
   authors: Alzahrani, Mona, Usman, Muhammad, Anwar, Saeed, Helmy, Tarek
   link:
-    url: ""
+    url: "https://openaccess.thecvf.com/content/CVPR2024W/3DMV/html/Alzahrani_Selective_Multi-View_Deep_Model_for_3D_Object_Classification_CVPRW_2024_paper.html"
     display: "Conference on Computer Vision and Pattern Recognition, 728--736 (2024)"
   highlight: 0
 
@@ -57,17 +66,8 @@
   description: ""
   authors: Bajbaa, Khawlah, Usman, Muhammad, Anwar, Saeed, Radwan, Ibrahim, Bais, Abdul
   link:
-    url: ""
+    url: "https://arxiv.org/abs/2405.08961"
     display: "arXiv preprint arXiv:2405.08961, (2024)"
-  highlight: 0
-
-- title: "A comprehensive overview of large language models, 2024"
-  image: image.png
-  description: ""
-  authors: Naveed, Humza, Khan, Asad Ullah, Qiu, Shi, Saqib, Muhammad, Anwar, Saeed, Usman, Muhammad, Akhtar, Naveed, Barnes, Nick, Mian, Ajmal
-  link:
-    url: ""
-    display: "arXiv preprint arXiv:2307.06435, (2024)"
   highlight: 0
 
 - title: "Deep models for multi-view 3D object recognition: a review"
@@ -75,17 +75,8 @@
   description: ""
   authors: Alzahrani, Mona, Usman, Muhammad, Jarraya, Salma Kammoun, Anwar, Saeed, Helmy, Tarek
   link:
-    url: ""
+    url: "https://link.springer.com/article/10.1007/s10462-024-10941-w"
     display: "Artificial Intelligence Review, 57(12), 323 (2024)"
-  highlight: 0
-
-- title: "A comprehensive overview of large language models"
-  image: image.png
-  description: ""
-  authors: Naveed, Humza, Khan, Asad Ullah, Qiu, Shi, Saqib, Muhammad, Anwar, Saeed, Usman, Muhammad, Akhtar, Naveed, Barnes, Nick, Mian, Ajmal
-  link:
-    url: ""
-    display: "ACM Transactions on Intelligent Systems and Technology, (2023)"
   highlight: 0
 
 - title: "The role of latent representations for design space exploration of floorplans"
@@ -93,7 +84,7 @@
   description: ""
   authors: Azizi, Vahid, Usman, Muhammad, Sohn, Samuel S, Schwartz, Mathew, Moon, Seonghyeon, Faloutsos, Petros, Kapadia, Mubbasir
   link:
-    url: ""
+    url: "https://journals.sagepub.com/doi/full/10.1177/00375497221115734"
     display: "Simulation, 99(11), 1167--1179 (2023)"
   highlight: 0
 
@@ -102,7 +93,7 @@
   description: ""
   authors: Chang, Che-Jui, Sohn, Samuel S, Zhang, Sen, Jayashankar, Rajath, Usman, Muhammad, Kapadia, Mubbasir
   link:
-    url: ""
+    url: "https://dl.acm.org/doi/abs/10.1145/3581641.3584045"
     display: "International Conference on Intelligent User Interfaces, 790--801 (2023)"
   highlight: 0
 
@@ -111,7 +102,7 @@
   description: ""
   authors: Usman, Muhammad, Usmani, Aman, Jadidi, Mojgan
   link:
-    url: ""
+    url: "https://ixdea.org/58_3/"
     display: "Interaction Design &amp; Architecture (s)--IxD&amp;A Journal, nan(58), 72--89 (2023)"
   highlight: 0
 
@@ -120,17 +111,8 @@
   description: ""
   authors: Hassan, Ali, Usman, Muhammad, Kremer, Melissa, Yang, Seungho, Luubert, Michael, Faloutsos, Petros, Hall, G Brent, Sohn, Gunho
   link:
-    url: ""
+    url: "https://link.springer.com/chapter/10.1007/978-3-031-43699-4_40"
     display: "International 3D GeoInfo Conference, 645--668 (2023)"
-  highlight: 0
-
-- title: "A comprehensive overview of large language models. arXiv 2023"
-  image: image.png
-  description: ""
-  authors: Naveed, Humza, Khan, Asad Ullah, Qiu, Shi, Saqib, Muhammad, Anwar, Saeed, Usman, Muhammad, Akhtar, Naveed, Barnes, Nick, Mian, Ajmal
-  link:
-    url: ""
-    display: "arXiv preprint arXiv:2307.06435, (2023)"
   highlight: 0
 
 - title: "Graph-based generative representation learning of semantically and behaviorally augmented floorplans"
@@ -138,7 +120,7 @@
   description: ""
   authors: Azizi, Vahid, Usman, Muhammad, Zhou, Honglu, Faloutsos, Petros, Kapadia, Mubbasir
   link:
-    url: ""
+    url: "https://link.springer.com/article/10.1007/s00371-021-02155-w"
     display: "The Visual Computer, 38(8), 2785--2800 (2022)"
   highlight: 0
 
@@ -147,7 +129,7 @@
   description: ""
   authors: Usman, Muhammad, Zhou, Honglu, Moon, Seonghyeon, Zhang, Xun, Faloutsos, Petros, Kapadia, Mubbasir
   link:
-    url: ""
+    url: "https://ieeexplore.ieee.org/abstract/document/9992069"
     display: "IEEE computer graphics and applications, 43(1), 39--52 (2022)"
   highlight: 0
 
@@ -156,7 +138,7 @@
   description: ""
   authors: Tennakoon, Damith, Usmani, Aman U, Vasileiou, Apostolos, Latchaev, Sasha, Baljko, Melanie, Usman, Muhammad, Khan, Usman, Perras, Matthew, Jadidi, Mojgan
   link:
-    url: ""
+    url: "https://peer.asee.org/teaching-earth-systems-beyond-the-classroom-developing-a-mixed-reality-xr-sandbox"
     display: "ASEE Annual Conference &amp; Exposition, (2022)"
   highlight: 0
 
@@ -165,7 +147,7 @@
   description: ""
   authors: Schwartz, Mathew, Haworth, Brandon, Usman, Muhammad, Faloutsos, Petros, Kapadia, Mubbasir
   link:
-    url: ""
+    url: "https://dl.acm.org/doi/abs/10.1145/3548814.3551457"
     display: "Symposium on Applied Perception, 1--11 (2022)"
   highlight: 0
 
@@ -174,7 +156,7 @@
   description: ""
   authors: Zhang, Xun, Schwartz, Mathew, Usman, Muhammad, Faloutsos, Petros, Kapadia, Mubbasir
   link:
-    url: ""
+    url: "https://arxiv.org/abs/2207.08860"
     display: "arXiv preprint arXiv:2207.08860, (2022)"
   highlight: 0
 
@@ -183,17 +165,8 @@
   description: ""
   authors: Sohn, Samuel S, Lee, Mihee, Moon, Seonghyeon, Qiao, Gang, Usman, Muhammad, Yoon, Sejong, Pavlovic, Vladimir, Kapadia, Mubbasir
   link:
-    url: ""
+    url: "https://www.sciencedirect.com/science/article/pii/S0097849322000826"
     display: "Computers &amp; Graphics, 106(nan), 130--140 (2022)"
-  highlight: 0
-
-- title: "Democratizing the Simulation of Human-Building Interactions."
-  image: image.png
-  description: ""
-  authors: Usman, Muhammad, Haworth, Brandon, Faloutsos, Petros, Kapadia, Mubbasir
-  link:
-    url: ""
-    display: "Computer Animation and Virtual Worlds, (2021)"
   highlight: 0
 
 - title: "A2x: An agent and environment interaction benchmark for multimodal human trajectory prediction"
@@ -201,7 +174,7 @@
   description: ""
   authors: Sohn, Samuel S, Lee, Mihee, Moon, Seonghyeon, Qiao, Gang, Usman, Muhammad, Yoon, Sejong, Pavlovic, Vladimir, Kapadia, Mubbasir
   link:
-    url: ""
+    url: "https://dl.acm.org/doi/abs/10.1145/3487983.3488302"
     display: "Computers &amp; Graphics, 1--9 (2021)"
   highlight: 0
 
@@ -210,7 +183,7 @@
   description: ""
   authors: Bolkas, Dimitrios, Jadidi, Mojgan A., Chiampi, Jeffrey, Usman, Muhammad
   link:
-    url: ""
+    url: "https://peer.asee.org/web-based-game-vs-virtual-reality-field-surveying-labs-towards-enhancing-experiential-education"
     display: "ASEE Annual Conference, (2021)"
   highlight: 0
 
@@ -219,7 +192,7 @@
   description: ""
   authors: Usman, Muhammad, Haworth, Brandon, Berseth, Glen, Faloutsos, Petros, Kapadia, Mubbasir
   link:
-    url: ""
+    url: "https://link.springer.com/chapter/10.1007/978-3-030-70370-7_9"
     display: "Resilience in the Digital Age, 157--171 (2021)"
   highlight: 0
 
@@ -228,7 +201,7 @@
   description: ""
   authors: Usman, Muhammad, Haworth, Brandon, Faloutsos, Petros, Kapadia, Mubbasir
   link:
-    url: ""
+    url: "https://onlinelibrary.wiley.com/doi/10.1002/cav.1990"
     display: "Computer Animation and Virtual Worlds, 32(6), e1990 (2021)"
   highlight: 0
 
@@ -237,7 +210,7 @@
   description: ""
   authors: Berseth, Glen, Haworth, Brandon, Usman, Muhammad, Schaumann, Davide, Khayatkhoei, Mahyar, Kapadia, Mubbasir, Faloutsos, Petros
   link:
-    url: ""
+    url: "https://ieeexplore.ieee.org/abstract/document/8823048/"
     display: "IEEE Transactions on Visualization and Computer Graphics, 27(1), 111--124 (2021)"
   highlight: 0
 
@@ -246,7 +219,7 @@
   description: ""
   authors: Usman, Muhammad, Lee, Tien-Chi, Moghe, Ryhan, Zhang, Xun, Faloutsos, Petros, Kapadia, Mubbasir
   link:
-    url: ""
+    url: "https://dl.acm.org/doi/abs/10.1145/3424636.3426905"
     display: "Conference on Motion, Interaction and Games (MIG), 1--6 (2020)"
   highlight: 0
 
@@ -255,7 +228,7 @@
   description: ""
   authors: Usman, Muhammad, Mao, Yi, Schaumann, Davide, Faloutsos, Petros, Kapadia, Mubbasir
   link:
-    url: ""
+    url: "https://simaud.org/2020/proceedings/15.pdf"
     display: "Annual Symposium on Simulation for Architecture and Urban Design, 1--8 (2020)"
   highlight: 0
 
@@ -264,7 +237,7 @@
   description: ""
   authors: Azizi, Vahid, Usman, Muhammad, Patel, Samarth, Schaumann, Davide, Zhou, Honglu, Faloutsos, Petros, Kapadia, Mubbasir
   link:
-    url: ""
+    url: "https://simaud.org/2020/proceedings/14.pdf"
     display: "Annual Symposium on Simulation for Architecture and Urban Design, 1--8 (2020)"
   highlight: 0
 
@@ -273,7 +246,7 @@
   description: ""
   authors: Haworth, Brandon, Usman, Muhammad, Schaumann, Davide, Chakraborty, Nilay, Berseth, Glen, Faloutsos, Petros, Kapadia, Mubbasir
   link:
-    url: ""
+    url: "https://ieeexplore.ieee.org/abstract/document/8964083"
     display: "IEEE computer graphics and applications, 41(4), 107--117 (2020)"
   highlight: 0
 
@@ -282,7 +255,7 @@
   description: ""
   authors: Schaumann, Davide, Moon, Seonghyeon, Usman, Muhammad, Goldstein, Rhys, Breslav, Simon, Khan, Azam, Faloutsos, Petros, Kapadia, Mubbasir
   link:
-    url: ""
+    url: "https://www.tandfonline.com/doi/abs/10.1080/00038628.2019.1662767"
     display: "Architectural Science Review, 63(3-4), 339--350 (2020)"
   highlight: 0
 
@@ -291,7 +264,7 @@
   description: ""
   authors: Usman, Muhammad, Schaumann, Davide, Haworth, Brandon, Kapadia, Mubbasir, Faloutsos, Petros
   link:
-    url: ""
+    url: "https://dl.acm.org/doi/abs/10.1145/3359566.3360086"
     display: "Conference on Motion, Interaction and Games (MIG), 1--5 (2019)"
   highlight: 0
 
@@ -300,7 +273,7 @@
   description: ""
   authors: Usman, Muhammad, Schaumann, Davide, Haworth, Brandon, Kapadia, Mubbasir, Faloutsos, Petros
   link:
-    url: ""
+    url: "https://link.springer.com/chapter/10.1007/978-981-13-8410-3_20"
     display: "International Conference on Computer-Aided Architectural Design Futures, 279--294 (2019)"
   highlight: 0
 
@@ -309,7 +282,7 @@
   description: ""
   authors: Schaumann, Davide, Sohn, Samuel S, Usman, Muhammad, Haworth, Brandon, Faloutsos, Petros, Kapadia, Mubbasir
   link:
-    url: ""
+    url: "https://bibbase.org/service/mendeley/cf9fe2ca-3ff4-3e96-b130-09221d607300/file/46672b20-47c1-ccb1-0447-275316adfc63/cf2019_047.pdf.pdf"
     display: "International Conference on Computer-Aided Architectural Design Futures, 18(00000), nan (2019)"
   highlight: 0
 
@@ -318,7 +291,7 @@
   description: ""
   authors: Schaumann, Davide, Moon, Seonghyeon, Usman, Muhammad, Goldstein, Rhys, Breslav, Simon, Khan, Azam, Faloutsos, Petros, Kapadia, Mubbasir
   link:
-    url: ""
+    url: "https://damassets.autodesk.net/content/dam/autodesk/www/autodesk-reasearch/pdf/publications/Toward%20a%20Multi_level%20and%20Multi-Paradign%20Platform%20for%20Building%20Occupant%20Simulation.pdf"
     display: "Symposium on Simulation for Architecture and Urban Design, 169--176 (2019)"
   highlight: 0
 
@@ -327,7 +300,7 @@
   description: ""
   authors: Berseth, Glen, Khayatkhoei, Mahyar, Haworth, Brandon, Usman, Muhammad, Kapadia, Mubbasir, Faloutsos, Petros
   link:
-    url: ""
+    url: "https://arxiv.org/abs/1801.08607"
     display: "arXiv preprint arXiv:1801.08607, (2018)"
   highlight: 0
 
@@ -336,7 +309,7 @@
   description: ""
   authors: Usman, Muhammad, Schaumann, Davide, Haworth, Brandon, Berseth, Glen, Kapadia, Mubbasir, Faloutsos, Petros
   link:
-    url: ""
+    url: "https://dl.acm.org/doi/abs/10.1145/3274247.3274503"
     display: "Conference on Motion, Interaction and Games (MIG), 1--12 (2018)"
   highlight: 0
 
@@ -345,7 +318,7 @@
   description: ""
   authors: Chakraborty, Nilay, Haworth, Brandon, Usman, Muhammad, Berseth, Glen, Faloutsos, Petros, Kapadia, Mubbasir
   link:
-    url: ""
+    url: "https://dl.acm.org/doi/abs/10.1145/3136457.3136463"
     display: "Conference on Motion, Interaction and Games (MIG), 1--5 (2017)"
   highlight: 0
 
@@ -354,7 +327,7 @@
   description: ""
   authors: Usman, Muhammad, Haworth, Brandon, Berseth, Glen, Kapadia, Mubbasir, Faloutsos, Petros
   link:
-    url: ""
+    url: "https://dl.acm.org/doi/abs/10.1145/3136457.3136458"
     display: "Conference on Motion, Interaction and Games (MIG), 1--10 (2017)"
   highlight: 0
 
@@ -363,7 +336,7 @@
   description: ""
   authors: Cassol, Vincius J, Testa, Est{\^e}v{\~a}o Smania, Jung, Cl{\'a}udio Rosito, Usman, Muhammad, Faloutsos, Petros, Berseth, Glen, Kapadia, Mubbasir, Badler, Norman I, Musse, Soraia Raupp
   link:
-    url: ""
+    url: "https://ieeexplore.ieee.org/abstract/document/8013477"
     display: "IEEE computer graphics and applications, 37(4), 60--71 (2017)"
   highlight: 0
 
@@ -372,7 +345,7 @@
   description: ""
   authors: Usman, Muhammad, Haworth, Brandon, Berseth, Glen, Kapadia, Mubbasir, Faloutsos, Petros
   link:
-    url: ""
+    url: "https://dl.acm.org/doi/abs/10.1145/3099564.3108164"
     display: "Symposium on Computer Animation, 1--2 (2017)"
   highlight: 0
 
@@ -381,7 +354,7 @@
   description: ""
   authors: Haworth, Brandon, Usman, Muhammad, Berseth, Glen, Kapadia, Mubbasir, Faloutsos, Petros
   link:
-    url: ""
+    url: "https://onlinelibrary.wiley.com/doi/full/10.1002/cav.1783"
     display: "Computer Animation and Virtual Worlds, 28(3-4), e1783 (2017)"
   highlight: 0
 
@@ -390,17 +363,8 @@
   description: ""
   authors: Haworth, Brandon, Usman, Muhammad, Berseth, Glen, Khayatkhoei, Mahyar, Kapadia, Mubbasir, Faloutsos, Petros
   link:
-    url: ""
+    url: "https://onlinelibrary.wiley.com/doi/full/10.1002/cav.1749"
     display: "Computer Animation and Virtual Worlds, 28(6), e1749 (2017)"
-  highlight: 0
-
-- title: "Analysis and Optimization of Level of Service Using Synthetic Crowds"
-  image: image.png
-  description: ""
-  authors: Haworth, Brandon, Usman, Muhammad, Berseth, Glen, Kapadia, Mubbasir, Faloutsos, Petros
-  link:
-    url: ""
-    display: "Annual MeetingTransportation Research Board, (2017)"
   highlight: 0
 
 - title: "The Use of Working Prototypes for Participatory Design with People with Disabilities"
@@ -408,7 +372,7 @@
   description: ""
   authors: Haworth, Brandon, Usman, Muhammad, Baljko, Melanie, Hamidi, Foad
   link:
-    url: ""
+    url: "https://link.springer.com/chapter/10.1007/978-3-319-41264-1_19"
     display: "Computers Helping People with Special Needs, 134--141 (2016)"
   highlight: 0
 
@@ -417,7 +381,7 @@
   description: ""
   authors: Haworth, Brandon, Usman, Muhammad, Berseth, Glen, Khayatkhoei, Mahyar, Kapadia, Mubbasir, Faloutsos, Petros
   link:
-    url: ""
+    url: "https://dl.acm.org/doi/abs/10.1145/2851581.2892360"
     display: "CHI conference extended abstracts on human factors in computing systems, 2119--2125 (2016)"
   highlight: 0
 
@@ -426,7 +390,7 @@
   description: ""
   authors: Haworth, Brandon, Usman, Muhammad, Berseth, Glen, Khayatkhoei, Mahyar, Kapadia, Mubbasir, Faloutsos, Petros
   link:
-    url: ""
+    url: "https://ieeexplore.ieee.org/abstract/document/7563566"
     display: "Virtual Humans and Crowds for Immersive Environments (VHCIE), 7--11 (2016)"
   highlight: 0
 
@@ -435,7 +399,7 @@
   description: ""
   authors: Haworth, Brandon, Usman, Muhammad, Berseth, Glen, Kapadia, Mubbasir, Faloutsos, Petros
   link:
-    url: ""
+    url: "https://dl.acm.org/doi/abs/10.1145/2822013.2822040"
     display: "Conference on Motion in Games (MiG), 91--96 (2015)"
   highlight: 0
 
@@ -444,7 +408,7 @@
   description: ""
   authors: Berseth, Glen, Usman, Muhammad, Haworth, Brandon, Kapadia, Mubbasir, Faloutsos, Petros
   link:
-    url: ""
+    url: "https://onlinelibrary.wiley.com/doi/full/10.1002/cav.1652"
     display: "Computer Animation and Virtual Worlds, 26(3-4), 377--386 (2015)"
   highlight: 0
   
