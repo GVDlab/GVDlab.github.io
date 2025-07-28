@@ -41,3 +41,15 @@
   research3: GIS
   research4: Digital Twins
   research5: Augmented/Virtual Reality
+
+- name: Prof. Gunho Sohn
+  photo: gsohn.png
+  info: Professor (York University), Director of <a href="https://www.ausmlab.com/">Augmented Urban Space Modeling</a> (AUSM) Lab.
+  email: gsohn@yorku.ca
+  number_research: 4
+  research1: Photogrammetry
+  research2: Computer Vision
+  research3: Machine Learning
+  research4: 3D City Modelling
+  research5: 
+  
