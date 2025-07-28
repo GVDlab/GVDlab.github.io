@@ -25,5 +25,5 @@ Interested in joining us? [Email](mailto:muhammad.usman8@ontariotechu.ca) with t
 Ontario Tech University undergraduates looking to dive deeper into the exciting world of crowd dynamics, immersive technologies and interactive graphics are warmly invited to complete their Honours Thesis in our lab! [Send](mailto:muhammad.usman8@ontariotechu.ca) an email with the subject line **"BS Honours Thesis"**, or feel free to drop by my office at U2063 in the Science Building. Let's discuss your ideas and set the stage for an inspiring academic journey!
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/lab-logo-withName.png" width="75%" height="75%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/lab-logo-withName.png" width="50%" height="50%">
 </figure>
