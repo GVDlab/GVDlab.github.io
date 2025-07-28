@@ -10,11 +10,12 @@ permalink: /allnews.html
 
 {% for article in site.data.news %}
 
-{{ article.date }} <br> {{ article.headline | markdownify}}
+{{ article.date }} 
+
+{{ article.headline | markdownify}}
 
 {% if article.image %}
   <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/{{ article.image }}" class="img-responsive" width="50%" />
 {% endif %}
 
 {% endfor %}
-
