@@ -31,6 +31,14 @@ permalink: /allnews.html
  </div>
 </div>
 
+<div class="col-12">
+  <div class="well clearfix">
+    <pubtit>{{ article.headline }}</pubtit>
+    <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/{{ article.image }}" class="img-responsive" width="50%" style="float: left" />
+    <p>{{ article.date }}</p>  
+  </div>
+</div>
+
 {% assign number_printed = number_printed | plus: 1 %}
 
 {% if even_odd == 1 %}
