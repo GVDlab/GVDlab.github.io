@@ -23,20 +23,12 @@ permalink: /allnews.html
 <div class="row">
 {% endif %}
 
-<div class="col-sm-6 clearfix">
+<div class="col-12 clearfix">
  <div class="well">
   <pubtit>{{ article.headline }}</pubtit>
   <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/{{ article.image }}" class="img-responsive" width="50%" style="float: left" />
   <p>{{ article.date }}</p>  
  </div>
-</div>
-
-<div class="col-sm-12 clearfix">
-  <div class="well ">
-    <pubtit>{{ article.headline }}</pubtit>
-    <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/{{ article.image }}" class="img-responsive" width="50%" style="float: left" />
-    <p>{{ article.date }}</p>  
-  </div>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
