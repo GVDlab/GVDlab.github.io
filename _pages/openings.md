@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - Vacancies"
+title: "GVD Lab - Vacancies"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
@@ -8,34 +8,22 @@ permalink: /vacancies
 
 # Open positions
 
-**We are currently open for PhD and postdoc applications related to our ERC CoG grant. The positions are mostly related to the Electron Pair Microscopy projects.**
+**We are currently open for Master/PhD and Postdoc applications. The positions are mostly related to the Immersive Crowds and Crowd Dynamics projects.**
 
-We are  looking for new group members with passion, talent, and grit!
+Are you passionate about interactive graphics, immersive VR/AR experiences, and fascinated by the potential of technology to bring virtual worlds to life? Our lab is looking for creative, enthusiastic individuals eager to push the boundaries of crowd simulation, virtual reality, and interactive digital environments. We are generally looking for individuals with skillset in tools and platforms like Unreal Engine, Unity3D, VR/AR toolkits, 3D character modeling, motion capture, and other related technologies. If you have the background, we'd love to hear from you!
 
-You will have the chance to work on the grand challenges of condensed matter physics, often at the interface of instrumental design and new physics. You will be involved in determining the important and interesting questions, creating and improving instrumental setups, performing measurements, and making discoveries.
+### Postdoc positions
+We are excited to welcome talented postdoctoral researchers who are ready to take their careers to the next level in the vibrant fields of crowd simulation, virtual reality, and emotionally-aware virtual environments. To express your interest, please [send](mailto:muhammad.usman8@ontariotechu.ca) us an email with the subject line **"Application for Postdoc"**. Attach your CV and transcripts, and briefly describe the project you are excited to work on. We especially encourage postdocs with fellowships (also consider applying for opportunities such as the [NSERC Postdoctoral Research Award](https://www.nserc-crsng.gc.ca/Students-Etudiants/PD-NP/cpra-bprc_eng.asp) or the prestigious [Banting Postdoctoral Fellowship](https://banting.fellowships-bourses.gc.ca/en/home-accueil.html)). **Be mindful of the application deadlines**. International applicants, also keep an eye out for fellowship opportunities available in your home countries.
 
-### Past open positions
+### Graduate positions (Master/PhD)
+Thinking of graduate studies with a fully-funded opportunity? Our graduate students are supported through Research Assistantships and/or scholarships. While admission is competitive, you significantly boost your chances by securing external funding or scholarships.
 
-You find the past job openings here:
-[Opening 1]({{ site.baseurl }}/downloads/GeneralPostdoc_2019_v01.pdf),
-[Opening 2]({{ site.baseurl }}/downloads/PPMS_PhD_2019_v01.pdf),
-[Opening 3]({{ site.baseurl }}/downloads/PD.pdf),
-[Opening 4]({{ site.baseurl }}/downloads/PHD1.pdf),
-[Opening 5]({{ site.baseurl }}/downloads/PHD2.pdf).
-
-### Applications for PhD and Postdoc positions
-If you are interested in working with us as a PhD student or postdoc, please send me an [email](mailto:milan.allan@gmail.com). State briefly why you are interested and attach a CV, including information about the grades you had as an undergraduate. No need for a separate cover letter or certificates. **Important**: please insert _"Application PhD"_ or _"Application Postdoc"_ in the subject line. If you are applying to a specific advertisement, note this in your email.
-
-We especially welcome postdocs with fellowships. I'd be happy to support you, also after you apply to our group. Take a look at the [veni fellowship](https://www.nwo.nl/en/calls/nwo-talent-programme-veni-science-domain) or the Marie Curie fellowship (currently closed, next deadline probably Fall 2021, [here is last years call]({{ site.baseurl }}/downloads/h2020-wp1820-msca_en.pdf)). In many country, there are also fellowships available for outdoing postdocs.**
+Interested in joining us? [Email](mailto:muhammad.usman8@ontariotechu.ca) with the subject line "Graduate Admission". Include your CV, transcripts, and a brief outline of a potential research project you are excited about. Keep in mind, admissions are managed by the Graduate Studies at Ontario Tech University. You will need to follow the formal admission process outlined on the Ontario Tech University graduate admissions website. For more details, look [here](https://gradstudies.ontariotechu.ca/future_students/programs/doctoral_programs/computer_science/index.php) for PhD, and [here](https://gradstudies.ontariotechu.ca/future_students/programs/masters_programs/computer_science/index.php) for the admission in MSc program. Computer Science gradudate programs follow a flat fee structure (more details [here](https://gradstudies.ontariotechu.ca/current_students/tuition-fees/index.php)).
 
 
-### Master projects for Leiden University students
-If you are a Master student at Leiden University looking for a Master project, contact me (or any group member) per email or stop by my office.
-
-### Bsc / Master students from elsewhere
-If you are interested in pursuing a Master degree at Leiden University, see [mastersinleiden.nl](http://www.mastersinleiden.nl/programmes/physics/en/introduction). Sometimes, we take master students or summer interns if we get exceptional applicants (this usually means very good grades and a personal recommendation).
-
+### Undergraduate Honours Thesis
+Ontario Tech University undergraduates looking to dive deeper into the exciting world of crowd dynamics, immersive technologies and interactive graphics are warmly invited to complete their Honours Thesis in our lab! [Send](mailto:muhammad.usman8@ontariotechu.ca) an email with the subject line **"BS Honours Thesis"**, or feel free to drop by my office at U2063 in the Science Building. Let's discuss your ideas and set the stage for an inspiring academic journey!
 
 <figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/logopic/lab-logo-withName.png" width="95%">
 </figure>
