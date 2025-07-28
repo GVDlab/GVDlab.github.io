@@ -31,8 +31,8 @@ permalink: /allnews.html
  </div>
 </div>
 
-<div class="col-12">
-  <div class="well clearfix">
+<div class="col-12 clearfix">
+  <div class="well ">
     <pubtit>{{ article.headline }}</pubtit>
     <img src="{{ site.url }}{{ site.baseurl }}/images/newspic/{{ article.image }}" class="img-responsive" width="50%" style="float: left" />
     <p>{{ article.date }}</p>  
