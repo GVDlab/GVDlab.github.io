@@ -6,7 +6,7 @@ sitemap: false
 permalink: /allnews.html
 ---
 
-# News
+# News from Graphics and Virtual Dynamics Lab
 
 {% for article in site.data.news %}
 
