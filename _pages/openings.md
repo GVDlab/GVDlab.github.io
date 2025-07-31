@@ -1,9 +1,9 @@
 ---
 title: "GVD Lab - Vacancies"
 layout: textlay
-excerpt: "Openings"
+excerpt: "Open Positions"
 sitemap: false
-permalink: /vacancies
+permalink: /open-positions
 ---
 
 # Open positions
