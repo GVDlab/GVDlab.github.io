@@ -93,7 +93,7 @@ Our lab operates at the exciting intersection of modeling and simulation of **vi
 
 We are also working with **embodiment in VR** within shared virtual spaces, where virtual characters and embodied users coexist and interact through deeply immersive experiences. Our efforts focus on ensuring these interactions are highly realistic, incorporating nuanced social behaviors and photorealistic virtual characters. Our integrative approach not only contributes to the scientific foundations of crowd dynamics but also fosters the development of practical tools for safer, more intuitive, and emotionally-responsive virtual spaces.
 
-**We are looking for passionate new Masters and PhD students to join the team** [(more info)](https://gvdlab.github.io/vacancies) **!**
+**We are looking for passionate new Masters and PhD students to join the team** [(more info)](https://gvdlab.github.io/open-positions) **!**
 
 
 
