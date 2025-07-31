@@ -8,7 +8,7 @@ permalink: /team/
 
 # People
 
- **We are  looking for new PhD and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are  looking for new PhD and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/open-positions) **!**
 
 
 Jump to [PIs](#principal-investigator), [Current Students](#current-students), [Alumni](#alumni), [External Collaborators](#external-collaborators), or [Administrative Support](#administrative-support).
