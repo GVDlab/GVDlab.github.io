@@ -103,7 +103,7 @@ firstp {
 }
 
 #carousel .item img {
-    object-fit: cover; /* Or `contain` depending on preference */
+    object-fit: contain; /* Or `cover` depending on preference */
     width: 100%;
     height: 100%;
 }
