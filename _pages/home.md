@@ -35,49 +35,49 @@ Our lab operates at the exciting intersection of modeling and simulation of **vi
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/sliderpic/lab-slider-3.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/sliderpic/old/lab-slider-3.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/sliderpic/lab-slider-1.png" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/sliderpic/old/lab-slider-1.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/sliderpic/lab-slider-2.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/sliderpic/old/lab-slider-2.jpg" alt="Slide 3" />
         </div>        
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/sliderpic/lab-slider-17.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/sliderpic/old/lab-slider-17.jpg" alt="Slide 4" />
         </div>        
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/sliderpic/lab-slider-18.jpg" alt="Slide 6" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/sliderpic/old/lab-slider-18.jpg" alt="Slide 6" />
         </div>         
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/sliderpic/lab-slider-7.jpg" alt="Slide 8" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/sliderpic/old/lab-slider-7.jpg" alt="Slide 8" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/sliderpic/lab-slider-8.png" alt="Slide 9" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/sliderpic/old/lab-slider-8.png" alt="Slide 9" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/sliderpic/lab-slider-9.jpg" alt="Slide 10" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/sliderpic/old/lab-slider-9.jpg" alt="Slide 10" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/sliderpic/lab-slider-10.jpg" alt="Slide 11" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/sliderpic/old/lab-slider-10.jpg" alt="Slide 11" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/sliderpic/lab-slider-11.jpg" alt="Slide 12" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/sliderpic/old/lab-slider-11.jpg" alt="Slide 12" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/sliderpic/lab-slider-12.jpg" alt="Slide 13" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/sliderpic/old/lab-slider-12.jpg" alt="Slide 13" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/sliderpic/lab-slider-13.jpg" alt="Slide 14" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/sliderpic/old/lab-slider-13.jpg" alt="Slide 14" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/sliderpic/lab-slider-14.jpg" alt="Slide 15" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/sliderpic/old/lab-slider-14.jpg" alt="Slide 15" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/sliderpic/lab-slider-15.jpg" alt="Slide 16" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/sliderpic/old/lab-slider-15.jpg" alt="Slide 16" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/sliderpic/lab-slider-16.jpg" alt="Slide 17" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/sliderpic/old/lab-slider-16.jpg" alt="Slide 17" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
