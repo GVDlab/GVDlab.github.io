@@ -10,7 +10,7 @@ permalink: /allnews.html
 
 {% for article in site.data.news %}
 
-### {{ article.date | markdownify | strip_html }} 
+### <span style="color:blue">{{ article.date | markdownify | strip_html }}</span>
 
 {{ article.headline | markdownify}}
 
