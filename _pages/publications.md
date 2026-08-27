@@ -25,18 +25,16 @@ permalink: /publications/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
- <div class="well">
-  <pubtit>{{ publi.title }}</pubtit>
-  <div style="display: flex; gap: 15px;">
-    <div style="flex-shrink: 0;">
-      <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="150px" />
-    </div>
-    <div style="flex-grow: 1;">
-      <p>{{ publi.description }}</p>
-      <p><em>{{ publi.authors }}</em></p>
-      <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
-      <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
-    </div>
+ <div class="well" style="display: flex; gap: 15px; align-items: flex-start;">
+  <div style="flex-shrink: 0;">
+   <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" style="width: 150px; height: auto;" />
+  </div>
+  <div style="flex-grow: 1;">
+   <pubtit>{{ publi.title }}</pubtit>
+   <p>{{ publi.description }}</p>
+   <p><em>{{ publi.authors }}</em></p>
+   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
+   <p class="text-danger"><strong> {{ publi.news1 }}</strong></p>
   </div>
  </div>
 </div>
