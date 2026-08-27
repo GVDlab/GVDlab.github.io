@@ -13,8 +13,9 @@ permalink: /publications/
 
 **At the end of this page, you can find the [full list of publications and patents](#full-list-of-publications).**
 
+{% assign publications = site.data.publist_2026 | concat: site.data.publist %}
 {% assign number_printed = 0 %}
-{% for publi in site.data.publist %}
+{% for publi in publications %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 {% if publi.highlight == 1 %}
@@ -57,7 +58,7 @@ permalink: /publications/
 
 ## Full List of publications
 
-{% for publi in site.data.publist %}
+{% for publi in publications %}
 
   {{ publi.title }} <br />
   <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
