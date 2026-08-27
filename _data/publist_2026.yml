@@ -6,3 +6,15 @@
     url: "https://onlinelibrary.wiley.com/doi/abs/10.1002/cav.70149"
     display: "Computer Animation and Virtual Worlds, 37(3), e70149 (2026)"
   highlight: 1
+
+- title: "Digital twin-based evaluation of tactical interventions for high-density pedestrian environments"
+  authors: Yang, S, Usman, M, Hassan, A, Sohn, G, Faloutsos, P, Haworth, B
+  link:
+    url: "https://www.tandfonline.com/doi/pdf/10.1080/10095020.2025.2600195"
+    display: "Geo-spatial Information Science, 1–19"
+
+- title: "From Satellite to Street: A Hybrid Framework Integrating Stable Diffusion and PanoGAN for Consistent Cross-View Synthesis"
+  authors: Bajbaa, Khawlah, Anwar, Abbas, Saqib, Muhammad, Anwar, Hafeez, Sharma, Nabin, Usman, Muhammad
+  link:
+    url: "https://link.springer.com/article/10.1007/s10707-026-00575-1"
+    display: "GeoInformatica, 30(1), 17 (2026)"
