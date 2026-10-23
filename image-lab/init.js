@@ -1,0 +1,1 @@
+if(isTeacher)startTeacher();else startStudent();
