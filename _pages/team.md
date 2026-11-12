@@ -8,7 +8,7 @@ permalink: /team/
 
 # People
 
- **We are  looking for new PhD and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/open-positions) **!**
+**We are  looking for new PhD and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/open-positions) **!**
 
 
 Jump to [PIs](#principal-investigator), [Current Students](#current-students), [Alumni](#alumni), [External Collaborators](#external-collaborators), or [Administrative Support](#administrative-support).
@@ -89,7 +89,7 @@ Jump to [PIs](#principal-investigator), [Current Students](#current-students), [
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <img src="{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" alt="{{ member.name }}" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.duration }} <br> Role: {{ member.info }} </i>
   <ul style="overflow: hidden">

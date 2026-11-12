@@ -13,3 +13,12 @@
   number_educ: 1
   education1: Co-supervision <a href="https://www.cs.rutgers.edu/people/professors/details/mubbasir-kapadia">Prof. Mubbasir Kapadia</a> and Prof. Muhammad Usman
   education2: 
+
+- name: Muhammad Furqan Khan
+  photo: mfurqan.jpg
+  info: PhD in Computer Science (Ontario Tech University)
+  email:
+  number_educ: 1
+  education1: "Supervisor: Dr. Muhammad Usman (Assistant Professor)"
+  education2: "Research: Personality-Aware Social Crowd Simulation Using Multi-Perception Reinforcement Learning"
+  education3: "Research: Human-in-the-Loop Virtual Reality for Personality-Driven Crowd Behavior and Human-Agent Interaction"
